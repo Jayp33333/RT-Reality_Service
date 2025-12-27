@@ -632,9 +632,8 @@ section{
 }
 
 .reviews .box-container .box .user img{
-   height: 6rem;
-   width: 6rem;
-   border-radius: 50%;
+   height: 30rem;
+   width: 30rem;
 }
 
 .reviews .box-container .box .user h3{
